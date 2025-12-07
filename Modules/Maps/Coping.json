@@ -1,0 +1,261 @@
+{
+    "anxiety": {
+        "responses": [
+            {
+                "title": "🧘 Coping Exercise — Anxiety",
+                "description": "**Try this 30-second grounding technique:**\n\n1. Inhale gently for 4 seconds.\n2. Hold for 2 seconds.\n3. Exhale slowly for 6 seconds.\n4. Notice 3 things you can see.\n5. Notice 2 things you can touch.\n6. Notice 1 thing you can hear.\n\nYou're doing okay — one breath at a time 💛",
+                "link_text": "Simple coping strategies",
+                "link_url": "https://www.mentalhealth.org.uk/explore-mental-health/publications/how-manage-and-reduce-stress",
+                "color": "85C1E9"
+            },
+            {
+                "title": "🧘 Calm Reset — Anxiety",
+                "description": "**Try box breathing:**\n\n1. Breathe in for 4 seconds.\n2. Hold for 4 seconds.\n3. Exhale for 4 seconds.\n4. Hold again for 4 seconds.\n\nThis helps slow your nervous system and bring your body back to calm 💙",
+                "link_text": "Box breathing guide",
+                "link_url": "https://www.healthline.com/health/box-breathing",
+                "color": "6FA9E5"
+            },
+            {
+                "title": "🧘 Grounding Moment — Anxiety",
+                "description": "**Try the ‘Name & Shift’ method:**\n\n1. Name the feeling you're experiencing.\n2. Say: *“This feeling will pass.”*\n3. Take one slow breath.\n4. Shift attention to something small around you.\n\nYou're safe. You're okay. One moment at a time 💙",
+                "link_text": "Managing anxious thoughts",
+                "link_url": "https://www.helpguide.org/articles/anxiety/anxiety-disorders-and-anxiety-attacks.htm",
+                "color": "7EB3F2"
+            }
+        ]
+    },
+
+    "stress": {
+        "responses": [
+            {
+                "title": "🌿 Coping Exercise — Stress",
+                "description": "**Try this tension release:**\n\n1. Gently clench your fists and shoulders.\n2. Hold for 5 seconds.\n3. Release.\n4. Repeat 3 times.\n\nYour body often lets go before your mind does — you're doing fine 💚",
+                "link_text": "Managing everyday stress",
+                "link_url": "https://www.apa.org/topics/stress",
+                "color": "7FD18C"
+            },
+            {
+                "title": "🌿 Reset Moment — Stress",
+                "description": "**Try a 20-second body scan:**\n\nStart at your toes and slowly move upward, relaxing each area as you go.\n\nIf your shoulders are tense — drop them. If your jaw is tight — release it.\n\nStress softens when you give yourself a moment 💚",
+                "link_text": "Stress relief tips",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/",
+                "color": "6FCF97"
+            },
+            {
+                "title": "🌿 Quick Reset — Stress",
+                "description": "**Try the '3-minute pause':**\n\n1. Pause.\n2. Take one slow breath.\n3. Ask yourself: *“What’s one thing I can let go of right now?”*\n\nEven a small release makes room for calm 💚",
+                "link_text": "Reducing stress load",
+                "link_url": "https://www.mentalhealth.org.uk/explore-mental-health/publications/how-manage-and-reduce-stress",
+                "color": "56D691"
+            }
+        ]
+    },
+
+    "overwhelm": {
+        "responses": [
+            {
+                "title": "💙 Coping Exercise — Overwhelm",
+                "description": "**Try this prioritization reset:**\n\n1. Pick *one* thing you can do.\n2. Break it into the smallest possible step.\n3. Do just that step.\n\nSmall steps still move you forward. You're doing your best 💙",
+                "link_text": "Managing overwhelm",
+                "link_url": "https://www.helpguide.org/articles/stress/stress-management.htm",
+                "color": "6CB6FF"
+            },
+            {
+                "title": "💙 Slow Reset — Overwhelm",
+                "description": "**Try the '2-minute anchor':**\n\n1. Set a timer for 2 minutes.\n2. Focus only on one small task.\n3. Stop when the timer ends.\n\nEven tiny progress counts — you're not falling behind 💙",
+                "link_text": "Finding calm in chaos",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety/",
+                "color": "5DA2F2"
+            },
+            {
+                "title": "💙 Mental Clean Slate — Overwhelm",
+                "description": "**Try a quick brain dump:**\n\nWrite every worry or task on paper.\nDon't organize it — just empty your mind onto the page.\n\nClearing mental space is the first step back to calm 💙",
+                "link_text": "Decluttering overwhelm",
+                "link_url": "https://psychcentral.com/health/what-to-do-when-you-feel-overwhelmed",
+                "color": "4C98E8"
+            }
+        ]
+    },
+
+    "sadness": {
+        "responses": [
+            {
+                "title": "💛 Coping Exercise — Sadness",
+                "description": "**Try this gentle emotional release:**\n\n1. Sit somewhere comfortable.\n2. Place a hand on your chest.\n3. Take slow breaths.\n4. Say: *“It's okay to feel this way.”*\n\nYou're moving through this. One soft moment at a time 💛",
+                "link_text": "Understanding emotions",
+                "link_url": "https://www.mentalhealth.org.uk/explore-mental-health/publications/your-mental-health",
+                "color": "F2C94C"
+            },
+            {
+                "title": "💛 Soft Moment — Sadness",
+                "description": "**Try the 'warm memory' technique:**\n\nRecall a moment where you felt appreciated, seen, or cared for.\nHold that memory gently for a few breaths.\n\nWarm memories remind us we matter 💛",
+                "link_text": "Coping with emotional lows",
+                "link_url": "https://www.helpguide.org/articles/depression/coping-with-depression.htm",
+                "color": "F7D35C"
+            },
+            {
+                "title": "💛 Calm Reflection — Sadness",
+                "description": "**Try writing a 1-sentence journal note:**\n\nComplete this line:\n*“Right now, I need…”*\n\nWhatever you wrote is valid. Your feelings deserve space 💛",
+                "link_text": "Emotional self-care",
+                "link_url": "https://psychcentral.com/health/emotional-self-care",
+                "color": "EED467"
+            }
+        ]
+    },
+
+    "panic": {
+        "responses": [
+            {
+                "title": "🫁 Coping Exercise — Panic",
+                "description": "**Try 5-5-5 breathing:**\n\n1. Inhale for 5 seconds.\n2. Hold for 5.\n3. Exhale for 5.\n\nRepeat until your body begins to settle. You're safe 💙",
+                "link_text": "Grounding during panic",
+                "link_url": "https://www.healthline.com/health/panic-attack-grounding",
+                "color": "5DADE2"
+            },
+            {
+                "title": "🫁 Panic Reset — You’re Safe",
+                "description": "**Try this grounding sentence:**\n\nSay quietly:\n*“I am safe. This feeling will pass.”*\n\nRepeat while taking slow breaths. The wave will ease 💙",
+                "link_text": "Panic management",
+                "link_url": "https://www.anxietycanada.com/articles/how-to-do-a-grounding-exercise/",
+                "color": "76BDEB"
+            },
+            {
+                "title": "🫁 Moment of Calm — Panic",
+                "description": "**Try this sensory anchor:**\n\n1. Touch something cool (a desk, metal, fabric).\n2. Feel its temperature.\n3. Focus only on that sensation.\n\nAnchoring your senses helps bring you back to the present 💙",
+                "link_text": "Understanding panic",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/",
+                "color": "67AEE2"
+            }
+        ]
+    },
+
+    "loneliness": {
+        "responses": [
+            {
+                "title": "🤍 Coping Exercise — Loneliness",
+                "description": "**Try this connection reminder:**\n\nThink of someone who has been kind to you.\nRecall something positive they said or did.\n\nYou matter more than your mind tells you 🤍",
+                "link_text": "Coping with loneliness",
+                "link_url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness",
+                "color": "D7BDE2"
+            },
+            {
+                "title": "🤍 Gentle Moment — Loneliness",
+                "description": "**Try writing yourself a kind message:**\n\nJust one sentence — something you *wish* someone would say to you.\n\nKindness counts even when it comes from you 🤍",
+                "link_text": "Building connection",
+                "link_url": "https://psychcentral.com/health/how-to-feel-less-lonely",
+                "color": "E3C6EC"
+            },
+            {
+                "title": "🤍 Warm Reminder — Loneliness",
+                "description": "**Try this grounding comfort:**\n\nWrap yourself in a blanket or hoodie.\nTake 3 slow breaths.\nTell yourself: *“I deserve comfort.”*\n\nYou really do 🤍",
+                "link_text": "Reducing loneliness",
+                "link_url": "https://www.helpguide.org/articles/relationships/social-connection.htm",
+                "color": "CDB9E2"
+            }
+        ]
+    },
+
+    "burnout": {
+        "responses": [
+            {
+                "title": "🔥 Coping Exercise — Burnout",
+                "description": "**Try this mini recharge:**\n\nClose your eyes for 10 seconds.\nRelax your jaw and shoulders.\nAsk: *“What can I remove from today?”*\n\nYou’ve carried so much — it's okay to rest ❤️‍🩹",
+                "link_text": "Preventing burnout",
+                "link_url": "https://www.helpguide.org/articles/stress/preventing-burnout.htm",
+                "color": "E57373"
+            },
+            {
+                "title": "🔥 Rest Break — Burnout",
+                "description": "**Try the ‘Pause & Permission’ method:**\n\nSay:\n*“I have permission to slow down.”*\nTake one breath.\n\nRest isn’t earned — it’s needed ❤️‍🩹",
+                "link_text": "Burnout recovery",
+                "link_url": "https://psychcentral.com/health/burnout",
+                "color": "F28A80"
+            },
+            {
+                "title": "🔥 Gentle Reset — Burnout",
+                "description": "**Try the 60-second energy scan:**\n\nFocus on your head → shoulders → arms → chest → legs.\nWhere does your body feel tired?\nGive that area attention.\n\nYour energy matters too ❤️‍🩹",
+                "link_text": "Managing exhaustion",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/",
+                "color": "DA6F65"
+            }
+        ]
+    },
+
+    "motivation": {
+        "responses": [
+            {
+                "title": "✨ Coping Exercise — Low Motivation",
+                "description": "**Try the 2-minute start:**\n\nDo a task for just 2 minutes.\nStop if you want.\nStarting is the hard part — you did that ✨",
+                "link_text": "Getting unstuck",
+                "link_url": "https://www.psychologytoday.com/us/basics/motivation",
+                "color": "F7A76C"
+            },
+            {
+                "title": "✨ Tiny Step Method — Motivation",
+                "description": "**Try choosing a task you can finish in under 60 seconds:**\n\nWhen you complete it, your brain gets a small win.\nSmall wins build momentum ✨",
+                "link_text": "Building motivation",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/depression/self-help/",
+                "color": "FDBB84"
+            },
+            {
+                "title": "✨ Momentum Spark — Motivation",
+                "description": "**Try this:**\n\nSay:\n*“I don’t have to do it all. I just have to do something.”*\nPick one extremely small action.\nDo only that.\n\nYou're moving — that counts ✨",
+                "link_text": "Motivation boosters",
+                "link_url": "https://psychcentral.com/health/boost-motivation",
+                "color": "FDC58D"
+            }
+        ]
+    },
+
+    "self_doubt": {
+        "responses": [
+            {
+                "title": "💫 Coping Exercise — Self-Doubt",
+                "description": "**Try this reframing prompt:**\n\nThink of something hard you've overcome.\nSay: *“I’ve handled tough things before.”*\n\nYour resilience is real 💫",
+                "link_text": "Building self-confidence",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/",
+                "color": "A569BD"
+            },
+            {
+                "title": "💫 Inner Strength Moment — Self-Doubt",
+                "description": "**Try this:**\n\nWrite one sentence acknowledging something you're proud of.\nEven the smallest thing counts.\n\nYou deserve credit 💫",
+                "link_text": "Improving self-belief",
+                "link_url": "https://psychcentral.com/health/self-esteem",
+                "color": "B37CC8"
+            },
+            {
+                "title": "💫 Gentle Reminder — Self-Doubt",
+                "description": "**Say this quietly:**\n\n*“I am learning. I am growing. It's okay not to be perfect.”*\n\nYou're allowed to take up space 💫",
+                "link_text": "Self-doubt support",
+                "link_url": "https://www.helpguide.org/mental-health/self-esteem",
+                "color": "9F63B6"
+            }
+        ]
+    },
+
+    "anger": {
+        "responses": [
+            {
+                "title": "🔥 Coping Exercise — Anger",
+                "description": "**Try this cool-down reset:**\n\nSplash cool water on your hands or face.\nTake one deep breath.\nRelease your jaw.\n\nCooling your body helps cool your mind 🔥",
+                "link_text": "Healthy anger management",
+                "link_url": "https://www.apa.org/topics/anger",
+                "color": "EB984E"
+            },
+            {
+                "title": "🔥 Anger Release — Calm Shift",
+                "description": "**Try this:**\n\nClench your fists tightly for 5 seconds.\nRelease completely.\nRepeat twice.\n\nPhysical tension release helps emotional release too 🔥",
+                "link_text": "Managing strong emotions",
+                "link_url": "https://psychcentral.com/health/anger-management",
+                "color": "E67E22"
+            },
+            {
+                "title": "🔥 Pause Moment — Anger",
+                "description": "**Try labeling the emotion:**\n\nSay:\n*“I feel angry, but I am in control of my actions.”*\n\nNaming a feeling reduces its intensity 🔥",
+                "link_text": "Reducing anger",
+                "link_url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/",
+                "color": "F5A45A"
+            }
+        ]
+    }
+}
